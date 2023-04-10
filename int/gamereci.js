@@ -12,7 +12,7 @@ let availableQuesions = [];
 let questions = [
     {
       question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-      imgsrc: "/int/reci/on.png",
+      imgsrc: "reci/on.png",
       choice1: "Ovo je reč 'on'",
       choice2: "Ovo je reč 'jutro'",
       choice3: "Ovo je reč 'tamo'",
@@ -21,7 +21,7 @@ let questions = [
     },
     {
       question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-      imgsrc: "/int/reci/ovde.png",
+      imgsrc: "reci/ovde.png",
       choice1: "Ovo je reč 'pita'",
       choice2: "Ovo je reč 'svađa'",
       choice3: "Ovo je reč 'ovde'",
@@ -30,7 +30,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/reci/pita.png",
+      imgsrc: "reci/pita.png",
       choice1: "Ovo je reč 'zaboravio'",
       choice2: "Ovo je reč 'učitelj'",
       choice3: "Ovo je reč 'trpeti'",
@@ -39,7 +39,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/reci/smesno.png",
+      imgsrc: "reci/smesno.png",
       choice1: "Ovo je reč 'tamo'",
       choice2: "Ovo je reč 'smešno'",
       choice3: "Ovo je reč 'on'",
@@ -48,7 +48,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/reci/svadja.png",
+      imgsrc: "reci/svadja.png",
       choice1: "Ovo je reč 'on'",
       choice2: "Ovo je reč 'ovde'",
       choice3: "Ovo je reč 'svađa'",
@@ -57,7 +57,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/reci/tamo.png",
+      imgsrc: "reci/tamo.png",
       choice1: "Ovo je reč 'učitelj'",
       choice2: "Ovo je reč 'pita'",
       choice3: "Ovo je reč 'trpeti'",
@@ -66,7 +66,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/reci/jutro.png",
+      imgsrc: "reci/jutro.png",
       choice1: "Ovo je reč 'ovde'",
       choice2: "Ovo je reč 'jutro'",
       choice3: "Ovo je reč 'smešno'",
@@ -75,7 +75,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/reci/trpeti.png",
+      imgsrc: "reci/trpeti.png",
       choice1: "Ovo je reč 'smešno'",
       choice2: "Ovo je reč 'zaboravio'",
       choice3: "Ovo je reč 'on'",
@@ -84,7 +84,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/reci/ucitelj.png",
+      imgsrc: "reci/ucitelj.png",
       choice1: "Ovo je reč 'trpeti'",
       choice2: "Ovo je reč 'svađa'",
       choice3: "Ovo je reč 'učitelj'",
