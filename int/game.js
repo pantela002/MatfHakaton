@@ -12,7 +12,7 @@ let availableQuesions = [];
 let questions = [
     {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/a.png",
+        imgsrc: "azbuka/slova/a.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово Ф",
@@ -21,7 +21,7 @@ let questions = [
       },
       {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/b.png",
+        imgsrc: "azbuka/slova/b.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово Б",
@@ -30,7 +30,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/v.png",
+        imgsrc: "azbuka/slova/v.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Ф",
         choice3: "Ово је слово П",
@@ -39,7 +39,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/g.png",
+        imgsrc: "azbuka/slova/g.png",
         choice1: "Ово је слово С",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово О",
@@ -48,7 +48,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/d.png",
+        imgsrc: "azbuka/slova/d.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово В",
         choice3: "Ово је слово Д",
@@ -57,7 +57,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dj.png",
+        imgsrc: "azbuka/slova/dj.png",
         choice1: "Ово је слово К",
         choice2: "Ово је слово Л",
         choice3: "Ово је слово Д",
@@ -66,7 +66,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/e.png",
+        imgsrc: "azbuka/slova/e.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ф",
@@ -75,7 +75,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/zz.png",
+        imgsrc: "azbuka/slova/zz.png",
         choice1: "Ово је слово У",
         choice2: "Ово је слово П",
         choice3: "Ово је слово Б",
@@ -84,7 +84,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/z.png",
+        imgsrc: "azbuka/slova/z.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Њ",
         choice3: "Ово је слово З",
@@ -93,7 +93,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/i.png",
+        imgsrc: "azbuka/slova/i.png",
         choice1: "Ово је слово И",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово П",
@@ -102,7 +102,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/j.png",
+        imgsrc: "azbuka/slova/j.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ж",
@@ -111,7 +111,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/k.png",
+        imgsrc: "azbuka/slova/k.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово К",
         choice3: "Ово је слово Ј",
@@ -120,7 +120,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/l.png",
+        imgsrc: "azbuka/slova/l.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Д",
         choice3: "Ово је слово Л",
@@ -129,7 +129,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/lj.png",
+        imgsrc: "azbuka/slova/lj.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово С",
         choice3: "Ово је слово И",
@@ -138,7 +138,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/m.png",
+        imgsrc: "azbuka/slova/m.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово К",
         choice3: "Ово је слово М",
@@ -147,7 +147,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/n.png",
+        imgsrc: "azbuka/slova/n.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово К",
@@ -156,7 +156,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/nj.png",
+        imgsrc: "azbuka/slova/nj.png",
         choice1: "Ово је слово Ј",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Њ",
@@ -165,7 +165,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/o.png",
+        imgsrc: "azbuka/slova/o.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово М",
         choice3: "Ово је слово Е",
@@ -174,7 +174,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/p.png",
+        imgsrc: "azbuka/slova/p.png",
         choice1: "Ово је слово Ф",
         choice2: "Ово је слово В",
         choice3: "Ово је слово П",
@@ -183,7 +183,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/r.png",
+        imgsrc: "azbuka/slova/r.png",
         choice1: "Ово је слово Р",
         choice2: "Ово је слово С",
         choice3: "Ово је слово Л",
@@ -192,7 +192,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/s.png",
+        imgsrc: "azbuka/slova/s.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ш",
@@ -201,7 +201,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/t.png",
+        imgsrc: "azbuka/slova/t.png",
         choice1: "Ово је слово Т",
         choice2: "Ово је слово З",
         choice3: "Ово је слово И",
@@ -210,7 +210,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/cc.png",
+        imgsrc: "azbuka/slova/cc.png",
         choice1: "Ово је слово Л",
         choice2: "Ово је слово Ћ",
         choice3: "Ово је слово К",
@@ -219,7 +219,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/u.png",
+        imgsrc: "azbuka/slova/u.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Б",
         choice3: "Ово је слово У",
@@ -228,7 +228,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/f.png",
+        imgsrc: "azbuka/slova/f.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово Џ",
         choice3: "Ово је слово Ф",
@@ -237,7 +237,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/h.png",
+        imgsrc: "azbuka/slova/h.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово А",
         choice3: "Ово је слово Ћ",
@@ -246,7 +246,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/c.png",
+        imgsrc: "azbuka/slova/c.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ц",
@@ -255,7 +255,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ccc.png",
+        imgsrc: "azbuka/slova/ccc.png",
         choice1: "Ово је слово Б",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово У",
@@ -264,7 +264,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dz.png",
+        imgsrc: "azbuka/slova/dz.png",
         choice1: "Ово је слово Џ",
         choice2: "Ово је слово Н",
         choice3: "Ово је слово М",
@@ -273,7 +273,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ss.png",
+        imgsrc: "azbuka/slova/ss.png",
         choice1: "Ово је слово Ц",
         choice2: "Ово је слово Т",
         choice3: "Ово је слово Ђ",
@@ -282,7 +282,7 @@ let questions = [
       },
       {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/a.png",
+        imgsrc: "azbuka/slova/a.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово Ф",
@@ -291,7 +291,7 @@ let questions = [
       },
       {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/b.png",
+        imgsrc: "azbuka/slova/b.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово Б",
@@ -300,7 +300,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/v.png",
+        imgsrc: "azbuka/slova/v.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Ф",
         choice3: "Ово је слово П",
@@ -309,7 +309,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/g.png",
+        imgsrc: "azbuka/slova/g.png",
         choice1: "Ово је слово С",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово О",
@@ -318,7 +318,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/d.png",
+        imgsrc: "azbuka/slova/d.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово В",
         choice3: "Ово је слово Д",
@@ -327,7 +327,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dj.png",
+        imgsrc: "azbuka/slova/dj.png",
         choice1: "Ово је слово К",
         choice2: "Ово је слово Л",
         choice3: "Ово је слово Д",
@@ -336,7 +336,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/e.png",
+        imgsrc: "azbuka/slova/e.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ф",
@@ -345,7 +345,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/zz.png",
+        imgsrc: "azbuka/slova/zz.png",
         choice1: "Ово је слово У",
         choice2: "Ово је слово П",
         choice3: "Ово је слово Б",
@@ -354,7 +354,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/z.png",
+        imgsrc: "azbuka/slova/z.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Њ",
         choice3: "Ово је слово З",
@@ -363,7 +363,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/i.png",
+        imgsrc: "azbuka/slova/i.png",
         choice1: "Ово је слово И",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово П",
@@ -372,7 +372,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/j.png",
+        imgsrc: "azbuka/slova/j.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ж",
@@ -381,7 +381,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/k.png",
+        imgsrc: "azbuka/slova/k.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово К",
         choice3: "Ово је слово Ј",
@@ -390,7 +390,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/l.png",
+        imgsrc: "azbuka/slova/l.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Д",
         choice3: "Ово је слово Л",
@@ -399,7 +399,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/lj.png",
+        imgsrc: "azbuka/slova/lj.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово С",
         choice3: "Ово је слово И",
@@ -408,7 +408,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/m.png",
+        imgsrc: "azbuka/slova/m.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово К",
         choice3: "Ово је слово М",
@@ -417,7 +417,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/n.png",
+        imgsrc: "azbuka/slova/n.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово К",
@@ -426,7 +426,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/nj.png",
+        imgsrc: "azbuka/slova/nj.png",
         choice1: "Ово је слово Ј",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Њ",
@@ -435,7 +435,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/o.png",
+        imgsrc: "azbuka/slova/o.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово М",
         choice3: "Ово је слово Е",
@@ -444,7 +444,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/p.png",
+        imgsrc: "azbuka/slova/p.png",
         choice1: "Ово је слово Ф",
         choice2: "Ово је слово В",
         choice3: "Ово је слово П",
@@ -453,7 +453,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/r.png",
+        imgsrc: "azbuka/slova/r.png",
         choice1: "Ово је слово Р",
         choice2: "Ово је слово С",
         choice3: "Ово је слово Л",
@@ -462,7 +462,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/s.png",
+        imgsrc: "azbuka/slova/s.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ш",
@@ -471,7 +471,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/t.png",
+        imgsrc: "azbuka/slova/t.png",
         choice1: "Ово је слово Т",
         choice2: "Ово је слово З",
         choice3: "Ово је слово И",
@@ -480,7 +480,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/cc.png",
+        imgsrc: "azbuka/slova/cc.png",
         choice1: "Ово је слово Л",
         choice2: "Ово је слово Ћ",
         choice3: "Ово је слово К",
@@ -489,7 +489,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/u.png",
+        imgsrc: "azbuka/slova/u.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Б",
         choice3: "Ово је слово У",
@@ -498,7 +498,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/f.png",
+        imgsrc: "azbuka/slova/f.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово Џ",
         choice3: "Ово је слово Ф",
@@ -507,7 +507,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/h.png",
+        imgsrc: "azbuka/slova/h.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово А",
         choice3: "Ово је слово Ћ",
@@ -516,7 +516,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/c.png",
+        imgsrc: "azbuka/slova/c.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ц",
@@ -525,7 +525,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ccc.png",
+        imgsrc: "azbuka/slova/ccc.png",
         choice1: "Ово је слово Б",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово У",
@@ -534,7 +534,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dz.png",
+        imgsrc: "azbuka/slova/dz.png",
         choice1: "Ово је слово Џ",
         choice2: "Ово је слово Н",
         choice3: "Ово је слово М",
@@ -543,7 +543,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ss.png",
+        imgsrc: "azbuka/slova/ss.png",
         choice1: "Ово је слово Ц",
         choice2: "Ово је слово Т",
         choice3: "Ово је слово Ђ",
@@ -552,7 +552,7 @@ let questions = [
       },
       {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/a.png",
+        imgsrc: "azbuka/slova/a.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово Ф",
@@ -561,7 +561,7 @@ let questions = [
       },
       {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/b.png",
+        imgsrc: "azbuka/slova/b.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово Б",
@@ -570,7 +570,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/v.png",
+        imgsrc: "azbuka/slova/v.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Ф",
         choice3: "Ово је слово П",
@@ -579,7 +579,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/g.png",
+        imgsrc: "azbuka/slova/g.png",
         choice1: "Ово је слово С",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово О",
@@ -588,7 +588,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/d.png",
+        imgsrc: "azbuka/slova/d.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово В",
         choice3: "Ово је слово Д",
@@ -597,7 +597,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dj.png",
+        imgsrc: "azbuka/slova/dj.png",
         choice1: "Ово је слово К",
         choice2: "Ово је слово Л",
         choice3: "Ово је слово Д",
@@ -606,7 +606,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/e.png",
+        imgsrc: "azbuka/slova/e.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ф",
@@ -615,7 +615,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/zz.png",
+        imgsrc: "azbuka/slova/zz.png",
         choice1: "Ово је слово У",
         choice2: "Ово је слово П",
         choice3: "Ово је слово Б",
@@ -624,7 +624,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/z.png",
+        imgsrc: "azbuka/slova/z.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Њ",
         choice3: "Ово је слово З",
@@ -633,7 +633,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/i.png",
+        imgsrc: "azbuka/slova/i.png",
         choice1: "Ово је слово И",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово П",
@@ -642,7 +642,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/j.png",
+        imgsrc: "azbuka/slova/j.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ж",
@@ -651,7 +651,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/k.png",
+        imgsrc: "azbuka/slova/k.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово К",
         choice3: "Ово је слово Ј",
@@ -660,7 +660,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/l.png",
+        imgsrc: "azbuka/slova/l.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Д",
         choice3: "Ово је слово Л",
@@ -669,7 +669,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/lj.png",
+        imgsrc: "azbuka/slova/lj.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово С",
         choice3: "Ово је слово И",
@@ -678,7 +678,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/m.png",
+        imgsrc: "azbuka/slova/m.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово К",
         choice3: "Ово је слово М",
@@ -687,7 +687,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/n.png",
+        imgsrc: "azbuka/slova/n.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово К",
@@ -696,7 +696,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/nj.png",
+        imgsrc: "azbuka/slova/nj.png",
         choice1: "Ово је слово Ј",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Њ",
@@ -705,7 +705,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/o.png",
+        imgsrc: "azbuka/slova/o.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово М",
         choice3: "Ово је слово Е",
@@ -714,7 +714,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/p.png",
+        imgsrc: "azbuka/slova/p.png",
         choice1: "Ово је слово Ф",
         choice2: "Ово је слово В",
         choice3: "Ово је слово П",
@@ -723,7 +723,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/r.png",
+        imgsrc: "azbuka/slova/r.png",
         choice1: "Ово је слово Р",
         choice2: "Ово је слово С",
         choice3: "Ово је слово Л",
@@ -732,7 +732,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/s.png",
+        imgsrc: "azbuka/slova/s.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ш",
@@ -741,7 +741,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/t.png",
+        imgsrc: "azbuka/slova/t.png",
         choice1: "Ово је слово Т",
         choice2: "Ово је слово З",
         choice3: "Ово је слово И",
@@ -750,7 +750,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/cc.png",
+        imgsrc: "azbuka/slova/cc.png",
         choice1: "Ово је слово Л",
         choice2: "Ово је слово Ћ",
         choice3: "Ово је слово К",
@@ -759,7 +759,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/u.png",
+        imgsrc: "azbuka/slova/u.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Б",
         choice3: "Ово је слово У",
@@ -768,7 +768,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/f.png",
+        imgsrc: "azbuka/slova/f.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово Џ",
         choice3: "Ово је слово Ф",
@@ -777,7 +777,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/h.png",
+        imgsrc: "azbuka/slova/h.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово А",
         choice3: "Ово је слово Ћ",
@@ -786,7 +786,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/c.png",
+        imgsrc: "azbuka/slova/c.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ц",
@@ -795,7 +795,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ccc.png",
+        imgsrc: "azbuka/slova/ccc.png",
         choice1: "Ово је слово Б",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово У",
@@ -804,7 +804,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dz.png",
+        imgsrc: "azbuka/slova/dz.png",
         choice1: "Ово је слово Џ",
         choice2: "Ово је слово Н",
         choice3: "Ово је слово М",
@@ -813,7 +813,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ss.png",
+        imgsrc: "azbuka/slova/ss.png",
         choice1: "Ово је слово Ц",
         choice2: "Ово је слово Т",
         choice3: "Ово је слово Ђ",
@@ -822,7 +822,7 @@ let questions = [
       },
       {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/a.png",
+        imgsrc: "azbuka/slova/a.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово Ф",
@@ -831,7 +831,7 @@ let questions = [
       },
       {
         question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-        imgsrc: "/int/azbuka/slova/b.png",
+        imgsrc: "azbuka/slova/b.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово Б",
@@ -840,7 +840,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/v.png",
+        imgsrc: "azbuka/slova/v.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Ф",
         choice3: "Ово је слово П",
@@ -849,7 +849,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/g.png",
+        imgsrc: "azbuka/slova/g.png",
         choice1: "Ово је слово С",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово О",
@@ -858,7 +858,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/d.png",
+        imgsrc: "azbuka/slova/d.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово В",
         choice3: "Ово је слово Д",
@@ -867,7 +867,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dj.png",
+        imgsrc: "azbuka/slova/dj.png",
         choice1: "Ово је слово К",
         choice2: "Ово је слово Л",
         choice3: "Ово је слово Д",
@@ -876,7 +876,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/e.png",
+        imgsrc: "azbuka/slova/e.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ф",
@@ -885,7 +885,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/zz.png",
+        imgsrc: "azbuka/slova/zz.png",
         choice1: "Ово је слово У",
         choice2: "Ово је слово П",
         choice3: "Ово је слово Б",
@@ -894,7 +894,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/z.png",
+        imgsrc: "azbuka/slova/z.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Њ",
         choice3: "Ово је слово З",
@@ -903,7 +903,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/i.png",
+        imgsrc: "azbuka/slova/i.png",
         choice1: "Ово је слово И",
         choice2: "Ово је слово Љ",
         choice3: "Ово је слово П",
@@ -912,7 +912,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/j.png",
+        imgsrc: "azbuka/slova/j.png",
         choice1: "Ово је слово А",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Ж",
@@ -921,7 +921,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/k.png",
+        imgsrc: "azbuka/slova/k.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово К",
         choice3: "Ово је слово Ј",
@@ -930,7 +930,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/l.png",
+        imgsrc: "azbuka/slova/l.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Д",
         choice3: "Ово је слово Л",
@@ -939,7 +939,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/lj.png",
+        imgsrc: "azbuka/slova/lj.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово С",
         choice3: "Ово је слово И",
@@ -948,7 +948,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/m.png",
+        imgsrc: "azbuka/slova/m.png",
         choice1: "Ово је слово Ш",
         choice2: "Ово је слово К",
         choice3: "Ово је слово М",
@@ -957,7 +957,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/n.png",
+        imgsrc: "azbuka/slova/n.png",
         choice1: "Ово је слово Ж",
         choice2: "Ово је слово Г",
         choice3: "Ово је слово К",
@@ -966,7 +966,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/nj.png",
+        imgsrc: "azbuka/slova/nj.png",
         choice1: "Ово је слово Ј",
         choice2: "Ово је слово Е",
         choice3: "Ово је слово Њ",
@@ -975,7 +975,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/o.png",
+        imgsrc: "azbuka/slova/o.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово М",
         choice3: "Ово је слово Е",
@@ -984,7 +984,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/p.png",
+        imgsrc: "azbuka/slova/p.png",
         choice1: "Ово је слово Ф",
         choice2: "Ово је слово В",
         choice3: "Ово је слово П",
@@ -993,7 +993,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/r.png",
+        imgsrc: "azbuka/slova/r.png",
         choice1: "Ово је слово Р",
         choice2: "Ово је слово С",
         choice3: "Ово је слово Л",
@@ -1002,7 +1002,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/s.png",
+        imgsrc: "azbuka/slova/s.png",
         choice1: "Ово је слово О",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ш",
@@ -1011,7 +1011,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/t.png",
+        imgsrc: "azbuka/slova/t.png",
         choice1: "Ово је слово Т",
         choice2: "Ово је слово З",
         choice3: "Ово је слово И",
@@ -1020,7 +1020,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/cc.png",
+        imgsrc: "azbuka/slova/cc.png",
         choice1: "Ово је слово Л",
         choice2: "Ово је слово Ћ",
         choice3: "Ово је слово К",
@@ -1029,7 +1029,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/u.png",
+        imgsrc: "azbuka/slova/u.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Б",
         choice3: "Ово је слово У",
@@ -1038,7 +1038,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/f.png",
+        imgsrc: "azbuka/slova/f.png",
         choice1: "Ово је слово Љ",
         choice2: "Ово је слово Џ",
         choice3: "Ово је слово Ф",
@@ -1047,7 +1047,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/h.png",
+        imgsrc: "azbuka/slova/h.png",
         choice1: "Ово је слово Х",
         choice2: "Ово је слово А",
         choice3: "Ово је слово Ћ",
@@ -1056,7 +1056,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/c.png",
+        imgsrc: "azbuka/slova/c.png",
         choice1: "Ово је слово Д",
         choice2: "Ово је слово Ж",
         choice3: "Ово је слово Ц",
@@ -1065,7 +1065,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ccc.png",
+        imgsrc: "azbuka/slova/ccc.png",
         choice1: "Ово је слово Б",
         choice2: "Ово је слово Ч",
         choice3: "Ово је слово У",
@@ -1074,7 +1074,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/dz.png",
+        imgsrc: "azbuka/slova/dz.png",
         choice1: "Ово је слово Џ",
         choice2: "Ово је слово Н",
         choice3: "Ово је слово М",
@@ -1083,7 +1083,7 @@ let questions = [
       },
       {
         question: " How do you write 'Hello World' in an alert box?",
-        imgsrc: "/int/azbuka/slova/ss.png",
+        imgsrc: "azbuka/slova/ss.png",
         choice1: "Ово је слово Ц",
         choice2: "Ово је слово Т",
         choice3: "Ово је слово Ђ",
