@@ -12,7 +12,7 @@ let availableQuesions = [];
 let questions = [
     {
       question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-      imgsrc: "/int/abeceda/a.jpg",
+      imgsrc: "abeceda/a.jpg",
       choice1: "Ovo je slovo A",
       choice2: "Ovo je slovo G",
       choice3: "Ovo je slovo K",
@@ -21,7 +21,7 @@ let questions = [
     },
     {
       question:"What is the correct syntax for referring to an external script called 'xxx.js'?",
-      imgsrc: "/int/abeceda/b.jpg",
+      imgsrc: "abeceda/b.jpg",
       choice1: "Ovo je slovo T",
       choice2: "Ovo je slovo E",
       choice3: "Ovo je slovo B",
@@ -30,7 +30,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/c.jpg",
+      imgsrc: "abeceda/c.jpg",
       choice1: "Ovo je slovo T",
       choice2: "Ovo je slovo E",
       choice3: "Ovo je slovo K",
@@ -39,7 +39,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/g.PNG",
+      imgsrc: "abeceda/g.PNG",
       choice1: "Ovo je slovo I",
       choice2: "Ovo je slovo G",
       choice3: "Ovo je slovo Z",
@@ -48,7 +48,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/d.PNG",
+      imgsrc: "abeceda/d.PNG",
       choice1: "Ovo je slovo B",
       choice2: "Ovo je slovo O",
       choice3: "Ovo je slovo D",
@@ -57,7 +57,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/đ.PNG",
+      imgsrc: "abeceda/đ.PNG",
       choice1: "Ovo je slovo C",
       choice2: "Ovo je slovo D",
       choice3: "Ovo je slovo M",
@@ -66,7 +66,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/e.PNG",
+      imgsrc: "abeceda/e.PNG",
       choice1: "Ovo je slovo H",
       choice2: "Ovo je slovo E",
       choice3: "Ovo je slovo B",
@@ -75,7 +75,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/ž.PNG",
+      imgsrc: "abeceda/ž.PNG",
       choice1: "Ovo je slovo Z",
       choice2: "Ovo je slovo F",
       choice3: "Ovo je slovo Dž",
@@ -84,7 +84,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/z.PNG",
+      imgsrc: "abeceda/z.PNG",
       choice1: "Ovo je slovo Ž",
       choice2: "Ovo je slovo H",
       choice3: "Ovo je slovo Z",
@@ -93,7 +93,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/i.PNG",
+      imgsrc: "abeceda/i.PNG",
       choice1: "Ovo je slovo I",
       choice2: "Ovo je slovo J",
       choice3: "Ovo je slovo T",
@@ -102,7 +102,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/j.PNG",
+      imgsrc: "abeceda/j.PNG",
       choice1: "Ovo je slovo L",
       choice2: "Ovo je slovo S",
       choice3: "Ovo je slovo P",
@@ -111,7 +111,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/k.PNG",
+      imgsrc: "abeceda/k.PNG",
       choice1: "Ovo je slovo U",
       choice2: "Ovo je slovo K",
       choice3: "Ovo je slovo E",
@@ -120,7 +120,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/l.PNG",
+      imgsrc: "abeceda/l.PNG",
       choice1: "Ovo je slovo J",
       choice2: "Ovo je slovo U",
       choice3: "Ovo je slovo L",
@@ -129,7 +129,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/lj.PNG",
+      imgsrc: "abeceda/lj.PNG",
       choice1: "Ovo je slovo Lj",
       choice2: "Ovo je slovo E",
       choice3: "Ovo je slovo J",
@@ -138,7 +138,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/m.PNG",
+      imgsrc: "abeceda/m.PNG",
       choice1: "Ovo je slovo N",
       choice2: "Ovo je slovo E",
       choice3: "Ovo je slovo M",
@@ -147,7 +147,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/n.PNG",
+      imgsrc: "abeceda/n.PNG",
       choice1: "Ovo je slovo T",
       choice2: "Ovo je slovo D",
       choice3: "Ovo je slovo Nj",
@@ -156,7 +156,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/nj.PNG",
+      imgsrc: "abeceda/nj.PNG",
       choice1: "Ovo je slovo P",
       choice2: "Ovo je slovo N",
       choice3: "Ovo je slovo Nj",
@@ -165,7 +165,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/o.PNG",
+      imgsrc: "abeceda/o.PNG",
       choice1: "Ovo je slovo O",
       choice2: "Ovo je slovo J",
       choice3: "Ovo je slovo P",
@@ -174,7 +174,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/p.PNG",
+      imgsrc: "abeceda/p.PNG",
       choice1: "Ovo je slovo R",
       choice2: "Ovo je slovo F",
       choice3: "Ovo je slovo P",
@@ -183,7 +183,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/r.PNG",
+      imgsrc: "abeceda/r.PNG",
       choice1: "Ovo je slovo R",
       choice2: "Ovo je slovo B",
       choice3: "Ovo je slovo G",
@@ -192,7 +192,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/s.PNG",
+      imgsrc: "abeceda/s.PNG",
       choice1: "Ovo je slovo C",
       choice2: "Ovo je slovo Š",
       choice3: "Ovo je slovo E",
@@ -201,7 +201,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/t.PNG",
+      imgsrc: "abeceda/t.PNG",
       choice1: "Ovo je slovo T",
       choice2: "Ovo je slovo J",
       choice3: "Ovo je slovo E",
@@ -210,7 +210,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/ć.jpg",
+      imgsrc: "abeceda/ć.jpg",
       choice1: "Ovo je slovo K",
       choice2: "Ovo je slovo Ć",
       choice3: "Ovo je slovo Č",
@@ -219,7 +219,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/u.PNG",
+      imgsrc: "abeceda/u.PNG",
       choice1: "Ovo je slovo E",
       choice2: "Ovo je slovo V",
       choice3: "Ovo je slovo U",
@@ -228,7 +228,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/f.PNG",
+      imgsrc: "abeceda/f.PNG",
       choice1: "Ovo je slovo H",
       choice2: "Ovo je slovo E",
       choice3: "Ovo je slovo F",
@@ -237,7 +237,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/h.PNG",
+      imgsrc: "abeceda/h.PNG",
       choice1: "Ovo je slovo H",
       choice2: "Ovo je slovo D",
       choice3: "Ovo je slovo N",
@@ -246,7 +246,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/c.jpg",
+      imgsrc: "abeceda/c.jpg",
       choice1: "Ovo je slovo J",
       choice2: "Ovo je slovo Ć",
       choice3: "Ovo je slovo C",
@@ -255,7 +255,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/č.jpg",
+      imgsrc: "abeceda/č.jpg",
       choice1: "Ovo je slovo H",
       choice2: "Ovo je slovo Č",
       choice3: "Ovo je slovo C",
@@ -264,7 +264,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/dž.PNG",
+      imgsrc: "abeceda/dž.PNG",
       choice1: "Ovo je slovo Dž",
       choice2: "Ovo je slovo Ž",
       choice3: "Ovo je slovo Đ",
@@ -273,7 +273,7 @@ let questions = [
     },
     {
       question: " How do you write 'Hello World' in an alert box?",
-      imgsrc: "/int/abeceda/š.PNG",
+      imgsrc: "abeceda/š.PNG",
       choice1: "Ovo je slovo Z",
       choice2: "Ovo je slovo Ž",
       choice3: "Ovo je slovo S",
